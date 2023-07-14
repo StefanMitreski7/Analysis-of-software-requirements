@@ -13,8 +13,7 @@ b. Initial user requirements
 Based on the requirements arising from the brainstorming session and additional sources of information. These requirements are revised, written well and clearly, duplication eliminated, made consistent but without changing the scope (that is, without removing essential features).
 These requirements are prioritized according to their potential impact on system improvement regardless of cost or development challenges.
 c. Discussion
-A query filtering / cleaning strategy has been developed and discussed briefly (~1/2 page).
-The request prioritization strategy is discussed briefly (~ 1/2 page).
+A query filtering / cleaning strategy has been developed and discussed. 
 d. References
 Included is a list of references I used in the document (eg documents, manuals, websites, competing systems, other authors..)
 3. At this stage, an individual interview with the interested party (stakeholder) is scheduled through. The stakeholder with whom we interviewed was simulated.
