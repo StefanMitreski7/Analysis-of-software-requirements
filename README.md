@@ -9,7 +9,7 @@ The procedure that I followed during the inspection of the document is described
 2. In the next phase, a session was held with stakeholders for Brainstorming and prioritizing ideas, and the following things are covered in the document:
 a. Introduction
 A brief overview of the objectives of this document
-b. Initial user requirements
+b. Initial user requirements .
 Based on the requirements arising from the brainstorming session and additional sources of information. These requirements are revised, written well and clearly, duplication eliminated, made consistent but without changing the scope (that is, without removing essential features).
 These requirements are prioritized according to their potential impact on system improvement regardless of cost or development challenges.
 c. Discussion
